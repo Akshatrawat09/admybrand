@@ -1,0 +1,46 @@
+# ADmyBRAND MGX Website
+
+This repository contains the code and assets for the ADmyBRAND website built using the MGX website builder with AI assistance.
+
+## Overview
+
+This website was developed using a blend of AI tools and manual coding to quickly create a responsive, modern marketing platform site for ADmyBRAND, an omnichannel ad-exchange platform.
+
+## AI Tools Used
+- **Primary tools:** ChatGPT, GitHub Copilot, MGX AI modules
+- **Key use cases:** Content generation, UI code scaffolding, responsive layout design, SEO optimization, and media asset management.
+
+## Sample AI Prompts
+- "Generate homepage copy for an omnichannel ad-exchange platform."
+- "Suggest modern landing page design and blocks."
+- "Write a validated contact form in HTML/JS."
+
+## AI vs Manual Work Split
+- **AI-generated:** About 70% of the initial codebase, content, UI drafts, and scripts.
+- **Manual coding:** Custom business logic, branding customization, stylesheet refinements, and integration with specific ADmyBRAND features.
+- **Customization:** Adapting AI-generated outputs for brand colors, images, UX flows, and business workflows.
+
+## Getting Started
+
+### Prerequisites
+- Modern web browser
+- Optional: Web server or GitHub Pages to host the site
+
+### Installation
+Clone this repository or download the files.
+
+### Hosting
+You can host this website directly on GitHub Pages or any static hosting provider by uploading the contents of this repository.
+
+## Contributing
+Contributions are welcome. Please fork the repository and submit pull requests for review.
+
+## License
+Specify your license here (e.g., MIT, GPL) or state if proprietary.
+
+## Contact
+For questions or support, contact the ADmyBRAND development team.
+
+---
+
+This project demonstrates a powerful hybrid of AI-assisted web development combined with expert manual craftsmanship to produce a high-quality website.
