@@ -69,7 +69,7 @@ Adjust overlays as needed to fit your color palette.
 Clone the repo:
 
 bash
-git clone https://github.com/yourusername/admybrand-ai-suite-landing.git
+git clone https://github.com/Akshatrawat09/admybrand
 cd admybrand-ai-suite-landing
 Install dependencies:
 
